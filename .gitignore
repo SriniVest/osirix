@@ -32,3 +32,5 @@ Binaries/ReportsToPDF/odt2pdf/build/odt2pdf
 *.xcscheme
 
 nitrogen/Nitrogen.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist
+
+DerivedData/
